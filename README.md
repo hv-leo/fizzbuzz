@@ -1,8 +1,7 @@
 # fizzbuzz
-Simple implementation of FizzBuzz following the TDD software development practice.
+Simple implementation of ThreeFive (similar to FizzBuzz) following the TDD software development practice.
 
-- Pre-requisites: 
-  - [Python3](https://www.python.org/downloads/)
+- Pre-requisites: [Python3](https://www.python.org/downloads/)
 
 ### Installation
 ```
